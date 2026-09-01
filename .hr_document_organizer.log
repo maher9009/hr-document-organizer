@@ -1,0 +1,24 @@
+2026-09-01 11:03:09,387 - INFO - [DRY RUN] Would move: unknown_file.xyz -> Other/unknown_file.xyz
+2026-09-01 11:03:09,387 - INFO - [DRY RUN] Would move: company_policy.pdf -> Policies/company_policy.pdf
+2026-09-01 11:03:09,387 - INFO - [DRY RUN] Would move: employee_contract.pdf -> Contracts/employee_contract.pdf
+2026-09-01 11:03:09,387 - INFO - [DRY RUN] Would move: sara_resume.docx -> CVs/sara_resume.docx
+2026-09-01 11:03:09,387 - INFO - [DRY RUN] Would move: training_certificate.pdf -> Certificates/training_certificate.pdf
+2026-09-01 11:03:09,387 - INFO - [DRY RUN] Would move: leave_request.pdf -> Leaves/leave_request.pdf
+2026-09-01 11:03:09,387 - INFO - [DRY RUN] Would move: monthly_payroll.xlsx -> Payroll/monthly_payroll.xlsx
+2026-09-01 11:03:09,387 - INFO - [DRY RUN] Would move: national_id.png -> IDs/national_id.png
+2026-09-01 11:03:09,387 - INFO - [DRY RUN] Would move: ahmed_cv.pdf -> CVs/ahmed_cv.pdf
+2026-09-01 11:03:09,388 - INFO - [DRY RUN] Would move: passport_copy.jpg -> IDs/passport_copy.jpg
+2026-09-01 11:03:09,388 - INFO - Total files processed: 10
+2026-09-01 11:03:09,388 - INFO - Dry run only. No files were moved.
+2026-09-01 11:03:09,388 - INFO - To actually move files, add: --execute
+2026-09-01 11:03:43,084 - INFO - Moved: unknown_file.xyz -> Other/unknown_file.xyz
+2026-09-01 11:03:43,085 - INFO - Moved: company_policy.pdf -> Policies/company_policy.pdf
+2026-09-01 11:03:43,085 - INFO - Moved: employee_contract.pdf -> Contracts/employee_contract.pdf
+2026-09-01 11:03:43,085 - INFO - Moved: sara_resume.docx -> CVs/sara_resume.docx
+2026-09-01 11:03:43,085 - INFO - Moved: training_certificate.pdf -> Certificates/training_certificate.pdf
+2026-09-01 11:03:43,085 - INFO - Moved: leave_request.pdf -> Leaves/leave_request.pdf
+2026-09-01 11:03:43,085 - INFO - Moved: monthly_payroll.xlsx -> Payroll/monthly_payroll.xlsx
+2026-09-01 11:03:43,086 - INFO - Moved: national_id.png -> IDs/national_id.png
+2026-09-01 11:03:43,086 - INFO - Moved: ahmed_cv.pdf -> CVs/ahmed_cv.pdf
+2026-09-01 11:03:43,086 - INFO - Moved: passport_copy.jpg -> IDs/passport_copy.jpg
+2026-09-01 11:03:43,086 - INFO - Total files processed: 10
